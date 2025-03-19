@@ -26,7 +26,7 @@ Whenever the bot detects a Vault that has surpassed the **maximum Loan-to-Value 
 ✅ Transfers a predefined quantity of **fTokens** to the Vault.
 ✅ Receives **collateral in exchange**, ensuring that positions remain stable.
 
-### 📅 **Operational Cycle** (As of Dec 20, 2022)
+### 📅 **Operational Cycle** (As of March 20, 2025)
 AstraSwap Risk Control follows a structured cycle to **monitor and maintain margin positions**:
 1️⃣ Fetches the **off-chain price** of the collateral via the **AstraSwap API**.
 2️⃣ Fetches **on-chain prices** for both the fToken and the collateral from AstraSwap swap pools.
